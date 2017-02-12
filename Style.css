@@ -1,0 +1,99 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	}
+.Header{
+	width: 1336px;
+    margin-left: 200px;
+	margin-top: 50px;
+	}
+.top-menu {
+	display: table;
+}	
+.button1{
+    display: inline-block;
+    background-color: #474646;
+	color: white;
+    width: 144px;
+    height: 40px;
+    vertical-align: middle;
+	text-align: center;
+		}
+.button2{
+    display: inline-block;
+    background-color: #3b3b3b;
+    color: white;
+	width: 100px;
+    height: 40px;
+    vertical-align: middle;
+    text-align: center;
+	}
+.button3{
+    display: inline-block;
+    background-color: #474646;
+    color: white;
+	width: 140px;
+    height: 40px;
+    vertical-align: middle;
+    text-align: center;
+	}
+.button4{
+    display: inline-block;
+	background-color: #474646;
+    color: white;
+	width: 748px;
+    height: 40px;
+    vertical-align: middle;
+    }
+	
+ .layout {
+	width: 1366px; 
+	margin-left: 200px;
+	margin-top: 40px;
+	position: relative; 
+}
+.sidebar, .content { 
+	position: absolute; }
+.sidebar {
+	background: #ffffff;
+	width: 240px;
+	height: 100%;
+	display: block;
+	left: 0px;
+	top: 0px;
+}
+	ul{
+		padding: 0px;
+		margin: 0px;
+		
+	}
+	
+	ul li {
+		list-style: none;
+	}
+	
+	ul li span{
+		background: #ffffff;
+		color: #656363;
+		border: 1px solid #c8c8c8;
+		display:table-cell;
+		vertical-align: middle;
+		width: 217px;
+		height: 40px;
+		padding-left: 23px;
+		/*text-decoration: none;
+		font-family: OpenSans;*/
+				
+   }
+	.Click {
+		background: #f9f9f9;
+		color: #2c2c2c;
+		padding-left: 35px;
+	}
+   
+.content {
+	background: blue; 
+	left: 288px;
+	width: 678px;
+	height: 400px;
+}
