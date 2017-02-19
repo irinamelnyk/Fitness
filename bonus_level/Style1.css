@@ -1,0 +1,49 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	}
+.Wrapper {
+	margin: 0px;
+	padding: 0px;
+	width: 960px;
+	height: 885px;
+	background-image: url(background.png);
+}
+	
+.Logo {
+	padding-top: 55px;
+	margin-left: 70px;
+	width: 265px;
+	height: 150px;
+	
+}
+
+.Countries {
+	margin-left: 70px;
+}
+
+/*.Countries nav li{
+	margin-right: 10px;
+	display: inline-block;
+   	list-style-type:none;
+	width: 260px;
+    height: 178px;
+	text-align: center;
+	color: #e6e6e6;
+   }
+
+	
+.First {
+	margin-left: 70px;
+	margin-bottom: 50px;
+}
+
+.Second {
+	margin-left: 70px;
+	margin-bottom: 50px;
+}
+
+*/
+.Footter {
+	margin-top: 175px;
+}
